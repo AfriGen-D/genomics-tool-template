@@ -104,7 +104,7 @@ If you use {{ PROJECT_NAME }} in your research, please cite:
 @software{{{ CITATION_KEY }},
   title = {{ PROJECT_NAME }},
   author = {{ AUTHORS }},
-  year = {{{ YEAR }}},
+  year = {2025},
   url = {https://github.com/AfriGen-D/{{ REPO_NAME }}},
   doi = {{{ DOI }}}
 }
